@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❌⭕ TicTacToe — Game
+# ❌ TicTacToe — Game ⭕
 
 A modern neon-style Tic-Tac-Toe game built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**. The project includes single-player AI mode, two-player human mode, difficulty selection, best-of-3 match flow, clean neon UI, and responsive gameplay.
 
@@ -48,7 +48,7 @@ The project focuses on responsive UI design, reusable React state handling, soli
 |-------------|----------------|
 | ![Start Screen](public/screenshots/1.png) | ![Mode Selection](public/screenshots/2.png) |
 
-| Game Board | Winner Screen |
+| Level Selection | Game Board |
 |-----------|---------------|
 | ![Game Board](public/screenshots/3.png) | ![Winner Screen](public/screenshots/4.png) |
 
