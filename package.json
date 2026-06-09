@@ -1,0 +1,28 @@
+{
+  "name": "tic-tac-toe-next-neon-stable",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Muhammad Ali Nawaz",
+  "description": "A stable neon Tic Tac Toe game with fixed AI logic, consistent X/O colors, and responsive UI built with Next.js.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "next": "^15.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "eslint": "^9.30.1",
+    "eslint-config-next": "^15.4.0",
+    "typescript": "~5.8.3"
+  }
+}
