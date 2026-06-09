@@ -1,6 +1,6 @@
 <div align="center">
 
-# ❌⭕ TicTacToe — Game
+# TicTacToe — Game
 
 A modern neon-style Tic-Tac-Toe game built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**. The project includes single-player AI mode, two-player human mode, difficulty selection, best-of-3 match flow, clean neon UI, and responsive gameplay.
 
@@ -109,7 +109,7 @@ TicTacToe-NextJS/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/CodeByMan/TicTacToe-NextJS.git
+git clone https://github.com/CodeByMan/TicTacToe.git
 cd TicTacToe-NextJS
 ```
 
