@@ -42,8 +42,6 @@ The project focuses on responsive UI design, reusable React state handling, soli
 
 ## 🖼️ Screenshots
 
-> Add your screenshots inside `public/screenshots/` using the same file names shown below.
-
 | Start Screen | Mode Selection |
 |-------------|----------------|
 | ![Start Screen](public/screenshots/1.png) | ![Mode Selection](public/screenshots/2.png) |
@@ -181,19 +179,6 @@ Run the production server:
 ```bash
 npm start
 ```
-
----
-
-## 🌐 Deployment
-
-This project can be deployed easily on platforms like **Vercel**.
-
-Recommended deployment steps:
-
-1. Push the project to GitHub.
-2. Import the repository into Vercel.
-3. Keep the default Next.js build settings.
-4. Deploy.
 
 ---
 
